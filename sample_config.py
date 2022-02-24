@@ -30,8 +30,8 @@ else:
     BOT_TOKEN = "5182935775:AAFPTzBhNWSz5pOGikrFS3mkc70xwfbDG-Q"
     API_ID = 15735111
     API_HASH = "193a769cbcd81b2284806f965649bd8f"
-    USERBOT_PREFIX = "."
-    PHONE_NUMBER = "+12523074350"  # Need for Userbot
+    #USERBOT_PREFIX = "."
+    #PHONE_NUMBER = "+12523074350"  # Need for Userbot
     SUDO_USERS_ID = [
           5283516924
     ]  # Sudo users have full access to everything, don't trust anyone
